@@ -1,0 +1,1248 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
+   sodipodi:docname="panel.svg"
+   width="210.29291338582678"
+   height="485.6692913385827"
+   viewBox="0 0 55.64 128.5"
+   version="1.1"
+   id="svg8">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="3.0724556"
+     inkscape:cx="124.55989"
+     inkscape:cy="184.48454"
+     inkscape:document-units="mm"
+     inkscape:current-layer="knobs-group"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:window-width="1756"
+     inkscape:window-height="1141"
+     inkscape:window-x="1974"
+     inkscape:window-y="-6"
+     inkscape:window-maximized="0"
+     inkscape:snap-text-baseline="false"
+     showguides="false" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="Panel"
+     id="panel"
+     style="display:inline" />
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="Holes"
+     id="g25521"
+     style="display:inline" />
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="Center"
+     id="g25557"
+     style="display:inline">
+    <path
+       d="M 7.6666668,125.5 H 11.566667"
+       id="path25523"
+       style="fill:none;stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       d="m 8.4666668,126.3 v -1.6"
+       id="path25525"
+       style="fill:none;stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       d="m 9.6166668,126.3 v -1.6"
+       id="path25527"
+       style="fill:none;stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       d="m 10.766667,126.3 v -1.6"
+       id="path25529"
+       style="fill:none;stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       d="M 7.6666668,3 H 11.566667"
+       id="path25531"
+       style="fill:none;stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       d="M 8.4666668,3.8 V 2.2"
+       id="path25533"
+       style="fill:none;stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       d="M 9.6166668,3.8 V 2.2"
+       id="path25535"
+       style="fill:none;stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       d="M 10.766667,3.8 V 2.2"
+       id="path25537"
+       style="fill:none;stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       d="m 44.073332,125.5 h 3.9"
+       id="path25539"
+       style="fill:none;stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       d="m 44.873332,126.3 v -1.6"
+       id="path25541"
+       style="fill:none;stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       d="m 46.023332,126.3 v -1.6"
+       id="path25543"
+       style="fill:none;stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       d="m 47.173332,126.3 v -1.6"
+       id="path25545"
+       style="fill:none;stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       d="m 44.073332,3 h 3.9"
+       id="path25547"
+       style="fill:none;stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       d="M 44.873332,3.8 V 2.2"
+       id="path25549"
+       style="fill:none;stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       d="M 46.023332,3.8 V 2.2"
+       id="path25551"
+       style="fill:none;stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       d="M 47.173332,3.8 V 2.2"
+       id="path25553"
+       style="fill:none;stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+  </g>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     style="display:inline">
+    <text
+       xml:space="preserve"
+       style="font-size:3.52777px;line-height:1.25;font-family:sans-serif;display:inline;stroke-width:0.264583"
+       x="-6.6678858"
+       y="46.468475"
+       id="text3123"
+       transform="rotate(-60.02269)"
+       inkscape:transform-center-x="-7.4835467"
+       inkscape:transform-center-y="-0.13363476"><tspan
+         sodipodi:role="line"
+         id="tspan3121"
+         x="-6.6678858"
+         y="46.468475"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Britannic Bold';-inkscape-font-specification:'Britannic Bold, ';stroke-width:0.264583">One</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.52777px;line-height:1.25;font-family:sans-serif;display:inline;stroke-width:0.264583"
+       x="-22.646406"
+       y="55.676041"
+       id="text3127"
+       transform="rotate(-60.02269)"
+       inkscape:transform-center-x="-7.4835467"
+       inkscape:transform-center-y="-0.13363476"><tspan
+         sodipodi:role="line"
+         id="tspan3125"
+         x="-22.646406"
+         y="55.676041"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Britannic Bold';-inkscape-font-specification:'Britannic Bold, ';stroke-width:0.264583">Two</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.52777px;line-height:1.25;font-family:sans-serif;display:inline;stroke-width:0.264583"
+       x="-38.969387"
+       y="63.484108"
+       id="text3131"
+       transform="rotate(-60.02269)"
+       inkscape:transform-center-x="-7.4835467"
+       inkscape:transform-center-y="-0.13363476"><tspan
+         sodipodi:role="line"
+         id="tspan3129"
+         x="-38.969387"
+         y="63.484108"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Britannic Bold';-inkscape-font-specification:'Britannic Bold, ';stroke-width:0.264583">Three</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.52777px;line-height:1.25;font-family:sans-serif;display:inline;stroke-width:0.264583"
+       x="-55.338001"
+       y="73.887566"
+       id="text3135"
+       transform="rotate(-60.02269)"
+       inkscape:transform-center-x="-7.4835467"
+       inkscape:transform-center-y="-0.13363476"><tspan
+         sodipodi:role="line"
+         id="tspan3133"
+         x="-55.338001"
+         y="73.887566"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Britannic Bold';-inkscape-font-specification:'Britannic Bold, ';stroke-width:0.264583">Four</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.52777px;line-height:1.25;font-family:sans-serif;display:inline;stroke-width:0.264583"
+       x="9.4665775"
+       y="101.42878"
+       id="text3143"><tspan
+         sodipodi:role="line"
+         id="tspan3141"
+         x="9.4665775"
+         y="101.42878"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Britannic Bold';-inkscape-font-specification:'Britannic Bold, ';stroke-width:0.264583">Out 1</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.52777px;line-height:1.25;font-family:sans-serif;display:inline;stroke-width:0.264583"
+       x="37.658592"
+       y="101.29514"
+       id="text3147"><tspan
+         sodipodi:role="line"
+         id="tspan3145"
+         x="37.658592"
+         y="101.29514"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Britannic Bold';-inkscape-font-specification:'Britannic Bold, ';stroke-width:0.264583">Out 2</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="Knob Scales Group"
+     id="knob-scales-group"
+     style="display:inline">
+    <g
+       inkscape:groupmode="layer"
+       inkscape:label="A"
+       id="g2668">
+      <g
+         inkscape:groupmode="layer"
+         inkscape:label="Drill guide"
+         id="g2614" />
+      <g
+         inkscape:groupmode="layer"
+         inkscape:label="Ticks"
+         id="g2638" />
+      <g
+         inkscape:groupmode="layer"
+         inkscape:label="Subticks"
+         id="g2660" />
+      <g
+         inkscape:groupmode="layer"
+         inkscape:label="Labels"
+         id="g2662" />
+      <g
+         inkscape:groupmode="layer"
+         inkscape:label="Arcs"
+         id="g2666" />
+    </g>
+    <g
+       inkscape:groupmode="layer"
+       inkscape:label="A"
+       id="g2808">
+      <g
+         inkscape:groupmode="layer"
+         inkscape:label="Drill guide"
+         id="g2754" />
+      <g
+         inkscape:groupmode="layer"
+         inkscape:label="Ticks"
+         id="g2778" />
+      <g
+         inkscape:groupmode="layer"
+         inkscape:label="Subticks"
+         id="g2800" />
+      <g
+         inkscape:groupmode="layer"
+         inkscape:label="Labels"
+         id="g2802" />
+      <g
+         inkscape:groupmode="layer"
+         inkscape:label="Arcs"
+         id="g2806" />
+    </g>
+    <g
+       inkscape:groupmode="layer"
+       inkscape:label="A"
+       id="g2977">
+      <g
+         inkscape:groupmode="layer"
+         inkscape:label="Drill guide"
+         id="g2923" />
+      <g
+         inkscape:groupmode="layer"
+         inkscape:label="Ticks"
+         id="g2947" />
+      <g
+         inkscape:groupmode="layer"
+         inkscape:label="Subticks"
+         id="g2969" />
+      <g
+         inkscape:groupmode="layer"
+         inkscape:label="Labels"
+         id="g2971" />
+      <g
+         inkscape:groupmode="layer"
+         inkscape:label="Arcs"
+         id="g2975" />
+    </g>
+    <g
+       inkscape:groupmode="layer"
+       inkscape:label="A"
+       id="g3176">
+      <g
+         inkscape:groupmode="layer"
+         inkscape:label="Drill guide"
+         id="g3122" />
+      <g
+         inkscape:groupmode="layer"
+         inkscape:label="Ticks"
+         id="g3146" />
+      <g
+         inkscape:groupmode="layer"
+         inkscape:label="Subticks"
+         id="g3168" />
+      <g
+         inkscape:groupmode="layer"
+         inkscape:label="Labels"
+         id="g3170" />
+      <g
+         inkscape:groupmode="layer"
+         inkscape:label="Arcs"
+         id="g3174" />
+    </g>
+    <g
+       inkscape:groupmode="layer"
+       inkscape:label="A"
+       id="g4102">
+      <g
+         inkscape:groupmode="layer"
+         inkscape:label="Drill guide"
+         id="g4050" />
+      <g
+         inkscape:groupmode="layer"
+         inkscape:label="Arcs"
+         id="g4052" />
+      <g
+         inkscape:groupmode="layer"
+         inkscape:label="Ticks"
+         id="g4076" />
+      <g
+         inkscape:groupmode="layer"
+         inkscape:label="Subticks"
+         id="g4098" />
+      <g
+         inkscape:groupmode="layer"
+         inkscape:label="Labels"
+         id="g4100" />
+    </g>
+    <g
+       inkscape:groupmode="layer"
+       inkscape:label="A"
+       id="g4261">
+      <g
+         inkscape:groupmode="layer"
+         inkscape:label="Drill guide"
+         id="g4209" />
+      <g
+         inkscape:groupmode="layer"
+         inkscape:label="Arcs"
+         id="g4211" />
+      <g
+         inkscape:groupmode="layer"
+         inkscape:label="Ticks"
+         id="g4235" />
+      <g
+         inkscape:groupmode="layer"
+         inkscape:label="Subticks"
+         id="g4257" />
+      <g
+         inkscape:groupmode="layer"
+         inkscape:label="Labels"
+         id="g4259" />
+    </g>
+    <g
+       inkscape:groupmode="layer"
+       inkscape:label="A"
+       id="g4449">
+      <g
+         inkscape:groupmode="layer"
+         inkscape:label="Drill guide"
+         id="g4397" />
+      <g
+         inkscape:groupmode="layer"
+         inkscape:label="Arcs"
+         id="g4399" />
+      <g
+         inkscape:groupmode="layer"
+         inkscape:label="Ticks"
+         id="g4423" />
+      <g
+         inkscape:groupmode="layer"
+         inkscape:label="Subticks"
+         id="g4445" />
+      <g
+         inkscape:groupmode="layer"
+         inkscape:label="Labels"
+         id="g4447" />
+    </g>
+    <g
+       inkscape:groupmode="layer"
+       inkscape:label="A"
+       id="g4666">
+      <g
+         inkscape:groupmode="layer"
+         inkscape:label="Drill guide"
+         id="g4614" />
+      <g
+         inkscape:groupmode="layer"
+         inkscape:label="Arcs"
+         id="g4616" />
+      <g
+         inkscape:groupmode="layer"
+         inkscape:label="Ticks"
+         id="g4640" />
+      <g
+         inkscape:groupmode="layer"
+         inkscape:label="Subticks"
+         id="g4662" />
+      <g
+         inkscape:groupmode="layer"
+         inkscape:label="Labels"
+         id="g4664" />
+    </g>
+    <g
+       inkscape:groupmode="layer"
+       inkscape:label="A"
+       id="g5898">
+      <g
+         inkscape:groupmode="layer"
+         inkscape:label="Drill guide"
+         id="g5846" />
+      <g
+         inkscape:groupmode="layer"
+         inkscape:label="Arcs"
+         id="g5848" />
+      <g
+         inkscape:groupmode="layer"
+         inkscape:label="Ticks"
+         id="g5872" />
+      <g
+         inkscape:groupmode="layer"
+         inkscape:label="Subticks"
+         id="g5894" />
+      <g
+         inkscape:groupmode="layer"
+         inkscape:label="Labels"
+         id="g5896" />
+    </g>
+    <g
+       inkscape:groupmode="layer"
+       inkscape:label="A"
+       id="g6081">
+      <g
+         inkscape:groupmode="layer"
+         inkscape:label="Drill guide"
+         id="g6029" />
+      <g
+         inkscape:groupmode="layer"
+         inkscape:label="Arcs"
+         id="g6031" />
+      <g
+         inkscape:groupmode="layer"
+         inkscape:label="Ticks"
+         id="g6055" />
+      <g
+         inkscape:groupmode="layer"
+         inkscape:label="Subticks"
+         id="g6077" />
+      <g
+         inkscape:groupmode="layer"
+         inkscape:label="Labels"
+         id="g6079" />
+    </g>
+    <g
+       inkscape:groupmode="layer"
+       inkscape:label="A"
+       id="g6293">
+      <g
+         inkscape:groupmode="layer"
+         inkscape:label="Drill guide"
+         id="g6241" />
+      <g
+         inkscape:groupmode="layer"
+         inkscape:label="Arcs"
+         id="g6243" />
+      <g
+         inkscape:groupmode="layer"
+         inkscape:label="Ticks"
+         id="g6267" />
+      <g
+         inkscape:groupmode="layer"
+         inkscape:label="Subticks"
+         id="g6289" />
+      <g
+         inkscape:groupmode="layer"
+         inkscape:label="Labels"
+         id="g6291" />
+    </g>
+    <g
+       inkscape:groupmode="layer"
+       inkscape:label="A"
+       id="g6534">
+      <g
+         inkscape:groupmode="layer"
+         inkscape:label="Drill guide"
+         id="g6482" />
+      <g
+         inkscape:groupmode="layer"
+         inkscape:label="Arcs"
+         id="g6484" />
+      <g
+         inkscape:groupmode="layer"
+         inkscape:label="Ticks"
+         id="g6508" />
+      <g
+         inkscape:groupmode="layer"
+         inkscape:label="Subticks"
+         id="g6530" />
+      <g
+         inkscape:groupmode="layer"
+         inkscape:label="Labels"
+         id="g6532" />
+    </g>
+    <g
+       inkscape:groupmode="layer"
+       inkscape:label="A"
+       id="g9161">
+      <g
+         inkscape:groupmode="layer"
+         inkscape:label="Drill guide"
+         id="g9109" />
+      <g
+         inkscape:groupmode="layer"
+         inkscape:label="Arcs"
+         id="g9111" />
+      <g
+         inkscape:groupmode="layer"
+         inkscape:label="Ticks"
+         id="g9135" />
+      <g
+         inkscape:groupmode="layer"
+         inkscape:label="Subticks"
+         id="g9157" />
+      <g
+         inkscape:groupmode="layer"
+         inkscape:label="Labels"
+         id="g9159" />
+    </g>
+    <g
+       inkscape:groupmode="layer"
+       inkscape:label="A"
+       id="g9490">
+      <g
+         inkscape:groupmode="layer"
+         inkscape:label="Drill guide"
+         id="g9438" />
+      <g
+         inkscape:groupmode="layer"
+         inkscape:label="Arcs"
+         id="g9440" />
+      <g
+         inkscape:groupmode="layer"
+         inkscape:label="Ticks"
+         id="g9464" />
+      <g
+         inkscape:groupmode="layer"
+         inkscape:label="Subticks"
+         id="g9486" />
+      <g
+         inkscape:groupmode="layer"
+         inkscape:label="Labels"
+         id="g9488" />
+    </g>
+    <g
+       inkscape:groupmode="layer"
+       inkscape:label="A"
+       id="g9848">
+      <g
+         inkscape:groupmode="layer"
+         inkscape:label="Drill guide"
+         id="g9796" />
+      <g
+         inkscape:groupmode="layer"
+         inkscape:label="Arcs"
+         id="g9798" />
+      <g
+         inkscape:groupmode="layer"
+         inkscape:label="Ticks"
+         id="g9822" />
+      <g
+         inkscape:groupmode="layer"
+         inkscape:label="Subticks"
+         id="g9844" />
+      <g
+         inkscape:groupmode="layer"
+         inkscape:label="Labels"
+         id="g9846" />
+    </g>
+    <g
+       inkscape:groupmode="layer"
+       inkscape:label="A"
+       id="g1933"
+       style="display:none">
+      <g
+         inkscape:groupmode="layer"
+         inkscape:label="Arcs"
+         id="g1883" />
+      <g
+         inkscape:groupmode="layer"
+         inkscape:label="Ticks"
+         id="g1907">
+        <path
+           d="m 21.404067,24.5467 -1.5,2.5981"
+           style="stroke:#be00d9;stroke-width:0.6;stroke-opacity:1"
+           id="path1885" />
+        <path
+           d="m 19.482467,22.6251 -2.5981,1.5"
+           style="stroke:#be00d9;stroke-width:0.6;stroke-opacity:1"
+           id="path1887" />
+        <path
+           d="m 18.779067,20.0001 h -3"
+           style="stroke:#be00d9;stroke-width:0.6;stroke-opacity:1"
+           id="path1889" />
+        <path
+           d="m 19.482467,17.3751 -2.5981,-1.5"
+           style="stroke:#be00d9;stroke-width:0.6;stroke-opacity:1"
+           id="path1891" />
+        <path
+           d="m 21.404067,15.4534 -1.5,-2.5981"
+           style="stroke:#be00d9;stroke-width:0.6;stroke-opacity:1"
+           id="path1893" />
+        <path
+           d="m 24.029067,14.7501 v -3"
+           style="stroke:#be00d9;stroke-width:0.6;stroke-opacity:1"
+           id="path1895" />
+        <path
+           d="m 26.654067,15.4534 1.5,-2.5981"
+           style="stroke:#be00d9;stroke-width:0.6;stroke-opacity:1"
+           id="path1897" />
+        <path
+           d="m 28.575767,17.3751 2.5981,-1.5"
+           style="stroke:#be00d9;stroke-width:0.6;stroke-opacity:1"
+           id="path1899" />
+        <path
+           d="m 29.279067,20.0001 h 3"
+           style="stroke:#be00d9;stroke-width:0.6;stroke-opacity:1"
+           id="path1901" />
+        <path
+           d="m 28.575767,22.6251 2.5981,1.5"
+           style="stroke:#be00d9;stroke-width:0.6;stroke-opacity:1"
+           id="path1903" />
+        <path
+           d="m 26.654067,24.5467 1.5,2.5981"
+           style="stroke:#be00d9;stroke-width:0.6;stroke-opacity:1"
+           id="path1905" />
+      </g>
+      <g
+         inkscape:groupmode="layer"
+         inkscape:label="Subticks"
+         id="g1929" />
+      <g
+         inkscape:groupmode="layer"
+         inkscape:label="Labels"
+         id="g1931" />
+    </g>
+    <g
+       inkscape:groupmode="layer"
+       inkscape:label="A"
+       id="g2273"
+       style="display:none">
+      <g
+         inkscape:groupmode="layer"
+         inkscape:label="Drill guide"
+         id="g2221">
+        <path
+           d="m 25.029067,37.7801 h -2"
+           style="fill:none;stroke:#000000;stroke-width:0.2"
+           id="path2217" />
+        <path
+           d="m 24.029067,38.7801 v -2"
+           style="fill:none;stroke:#000000;stroke-width:0.2"
+           id="path2219" />
+      </g>
+      <g
+         inkscape:groupmode="layer"
+         inkscape:label="Arcs"
+         id="g2223" />
+      <g
+         inkscape:groupmode="layer"
+         inkscape:label="Ticks"
+         id="g2247">
+        <path
+           d="m 21.404067,42.3267 -1.5,2.5981"
+           style="stroke:#be00d9;stroke-width:0.6;stroke-opacity:1"
+           id="path2225" />
+        <path
+           d="m 19.482467,40.4051 -2.5981,1.5"
+           style="stroke:#be00d9;stroke-width:0.6;stroke-opacity:1"
+           id="path2227" />
+        <path
+           d="m 18.779067,37.7801 h -3"
+           style="stroke:#be00d9;stroke-width:0.6;stroke-opacity:1"
+           id="path2229" />
+        <path
+           d="m 19.482467,35.1551 -2.5981,-1.5"
+           style="stroke:#be00d9;stroke-width:0.6;stroke-opacity:1"
+           id="path2231" />
+        <path
+           d="m 21.404067,33.2334 -1.5,-2.5981"
+           style="stroke:#be00d9;stroke-width:0.6;stroke-opacity:1"
+           id="path2233" />
+        <path
+           d="m 24.029067,32.5301 v -3"
+           style="stroke:#be00d9;stroke-width:0.6;stroke-opacity:1"
+           id="path2235" />
+        <path
+           d="m 26.654067,33.2334 1.5,-2.5981"
+           style="stroke:#be00d9;stroke-width:0.6;stroke-opacity:1"
+           id="path2237" />
+        <path
+           d="m 28.575767,35.1551 2.5981,-1.5"
+           style="stroke:#be00d9;stroke-width:0.6;stroke-opacity:1"
+           id="path2239" />
+        <path
+           d="m 29.279067,37.7801 h 3"
+           style="stroke:#be00d9;stroke-width:0.6;stroke-opacity:1"
+           id="path2241" />
+        <path
+           d="m 28.575767,40.4051 2.5981,1.5"
+           style="stroke:#be00d9;stroke-width:0.6;stroke-opacity:1"
+           id="path2243" />
+        <path
+           d="m 26.654067,42.3267 1.5,2.5981"
+           style="stroke:#be00d9;stroke-width:0.6;stroke-opacity:1"
+           id="path2245" />
+      </g>
+      <g
+         inkscape:groupmode="layer"
+         inkscape:label="Subticks"
+         id="g2269" />
+      <g
+         inkscape:groupmode="layer"
+         inkscape:label="Labels"
+         id="g2271" />
+    </g>
+    <g
+       inkscape:groupmode="layer"
+       inkscape:label="A"
+       id="g2645"
+       style="display:none">
+      <g
+         inkscape:groupmode="layer"
+         inkscape:label="Drill guide"
+         id="g2593">
+        <path
+           d="m 25.029067,55.5601 h -2"
+           style="fill:none;stroke:#000000;stroke-width:0.2"
+           id="path2589" />
+        <path
+           d="m 24.029067,56.5601 v -2"
+           style="fill:none;stroke:#000000;stroke-width:0.2"
+           id="path2591" />
+      </g>
+      <g
+         inkscape:groupmode="layer"
+         inkscape:label="Arcs"
+         id="g2595" />
+      <g
+         inkscape:groupmode="layer"
+         inkscape:label="Ticks"
+         id="g2619">
+        <path
+           d="m 21.404067,60.1067 -1.5,2.5981"
+           style="stroke:#be00d9;stroke-width:0.6;stroke-opacity:1"
+           id="path2597" />
+        <path
+           d="m 19.482467,58.1851 -2.5981,1.5"
+           style="stroke:#be00d9;stroke-width:0.6;stroke-opacity:1"
+           id="path2599" />
+        <path
+           d="m 18.779067,55.5601 h -3"
+           style="stroke:#be00d9;stroke-width:0.6;stroke-opacity:1"
+           id="path2601" />
+        <path
+           d="m 19.482467,52.9351 -2.5981,-1.5"
+           style="stroke:#be00d9;stroke-width:0.6;stroke-opacity:1"
+           id="path2603" />
+        <path
+           d="m 21.404067,51.0134 -1.5,-2.598"
+           style="stroke:#be00d9;stroke-width:0.6;stroke-opacity:1"
+           id="path2605" />
+        <path
+           d="m 24.029067,50.3101 v -3"
+           style="stroke:#be00d9;stroke-width:0.6;stroke-opacity:1"
+           id="path2607" />
+        <path
+           d="m 26.654067,51.0134 1.5,-2.598"
+           style="stroke:#be00d9;stroke-width:0.6;stroke-opacity:1"
+           id="path2609" />
+        <path
+           d="m 28.575767,52.9351 2.5981,-1.5"
+           style="stroke:#be00d9;stroke-width:0.6;stroke-opacity:1"
+           id="path2611" />
+        <path
+           d="m 29.279067,55.5601 h 3"
+           style="stroke:#be00d9;stroke-width:0.6;stroke-opacity:1"
+           id="path2613" />
+        <path
+           d="m 28.575767,58.1851 2.5981,1.5"
+           style="stroke:#be00d9;stroke-width:0.6;stroke-opacity:1"
+           id="path2615" />
+        <path
+           d="m 26.654067,60.1067 1.5,2.5981"
+           style="stroke:#be00d9;stroke-width:0.6;stroke-opacity:1"
+           id="path2617" />
+      </g>
+      <g
+         inkscape:groupmode="layer"
+         inkscape:label="Subticks"
+         id="g2641" />
+      <g
+         inkscape:groupmode="layer"
+         inkscape:label="Labels"
+         id="g2643" />
+    </g>
+    <g
+       inkscape:groupmode="layer"
+       inkscape:label="A"
+       id="g3046"
+       style="display:none">
+      <g
+         inkscape:groupmode="layer"
+         inkscape:label="Drill guide"
+         id="g2994">
+        <path
+           d="m 25.029067,73.3401 h -2"
+           style="fill:none;stroke:#000000;stroke-width:0.2"
+           id="path2990" />
+        <path
+           d="m 24.029067,74.3401 v -2"
+           style="fill:none;stroke:#000000;stroke-width:0.2"
+           id="path2992" />
+      </g>
+      <g
+         inkscape:groupmode="layer"
+         inkscape:label="Arcs"
+         id="g2996" />
+      <g
+         inkscape:groupmode="layer"
+         inkscape:label="Ticks"
+         id="g3020">
+        <path
+           d="m 21.404067,77.8867 -1.5,2.5981"
+           style="stroke:#be00d9;stroke-width:0.6;stroke-opacity:1"
+           id="path2998" />
+        <path
+           d="m 19.482467,75.9651 -2.5981,1.5"
+           style="stroke:#be00d9;stroke-width:0.6;stroke-opacity:1"
+           id="path3000" />
+        <path
+           d="m 18.779067,73.3401 h -3"
+           style="stroke:#be00d9;stroke-width:0.6;stroke-opacity:1"
+           id="path3002" />
+        <path
+           d="m 19.482467,70.7151 -2.5981,-1.5"
+           style="stroke:#be00d9;stroke-width:0.6;stroke-opacity:1"
+           id="path3004" />
+        <path
+           d="m 21.404067,68.7934 -1.5,-2.5981"
+           style="stroke:#be00d9;stroke-width:0.6;stroke-opacity:1"
+           id="path3006" />
+        <path
+           d="m 24.029067,68.0901 v -3"
+           style="stroke:#be00d9;stroke-width:0.6;stroke-opacity:1"
+           id="path3008" />
+        <path
+           d="m 26.654067,68.7934 1.5,-2.5981"
+           style="stroke:#be00d9;stroke-width:0.6;stroke-opacity:1"
+           id="path3010" />
+        <path
+           d="m 28.575767,70.7151 2.5981,-1.5"
+           style="stroke:#be00d9;stroke-width:0.6;stroke-opacity:1"
+           id="path3012" />
+        <path
+           d="m 29.279067,73.3401 h 3"
+           style="stroke:#be00d9;stroke-width:0.6;stroke-opacity:1"
+           id="path3014" />
+        <path
+           d="m 28.575767,75.9651 2.5981,1.5"
+           style="stroke:#be00d9;stroke-width:0.6;stroke-opacity:1"
+           id="path3016" />
+        <path
+           d="m 26.654067,77.8867 1.5,2.5981"
+           style="stroke:#be00d9;stroke-width:0.6;stroke-opacity:1"
+           id="path3018" />
+      </g>
+      <g
+         inkscape:groupmode="layer"
+         inkscape:label="Subticks"
+         id="g3042" />
+      <g
+         inkscape:groupmode="layer"
+         inkscape:label="Labels"
+         id="g3044"
+         style="display:inline" />
+    </g>
+    <g
+       inkscape:groupmode="layer"
+       inkscape:label="A"
+       id="g16531"
+       style="display:inline">
+      <g
+         inkscape:groupmode="layer"
+         inkscape:label="Drill guide"
+         id="g16527">
+        <path
+           d="m 14.616568,91.1201 h -2"
+           style="fill:none;stroke:#000000;stroke-width:0.2"
+           id="path16523" />
+        <path
+           d="m 13.616568,92.1201 v -2"
+           style="fill:none;stroke:#000000;stroke-width:0.2"
+           id="path16525" />
+      </g>
+      <g
+         inkscape:groupmode="layer"
+         inkscape:label="Arcs"
+         id="g16529" />
+    </g>
+    <g
+       inkscape:groupmode="layer"
+       inkscape:label="A"
+       id="g16910"
+       style="display:inline">
+      <g
+         inkscape:groupmode="layer"
+         inkscape:label="Drill guide"
+         id="g16906">
+        <path
+           d="m 44.116902,91.1201 h -2"
+           style="fill:none;stroke:#000000;stroke-width:0.2"
+           id="path16902" />
+        <path
+           d="m 43.116902,92.1201 v -2"
+           style="fill:none;stroke:#000000;stroke-width:0.2"
+           id="path16904" />
+      </g>
+      <g
+         inkscape:groupmode="layer"
+         inkscape:label="Arcs"
+         id="g16908" />
+    </g>
+    <g
+       inkscape:groupmode="layer"
+       inkscape:label="A"
+       id="g17294"
+       style="display:inline">
+      <g
+         inkscape:groupmode="layer"
+         inkscape:label="Drill guide"
+         id="g17290">
+        <path
+           d="m 29.791668,108.9 h -2"
+           style="fill:none;stroke:#000000;stroke-width:0.2"
+           id="path17286" />
+        <path
+           d="m 28.791668,109.9 v -2"
+           style="fill:none;stroke:#000000;stroke-width:0.2"
+           id="path17288" />
+      </g>
+      <g
+         inkscape:groupmode="layer"
+         inkscape:label="Arcs"
+         id="g17292" />
+    </g>
+    <g
+       inkscape:groupmode="layer"
+       inkscape:label="One"
+       id="g29453"
+       style="display:inline">
+      <g
+         inkscape:groupmode="layer"
+         inkscape:label="Drill guide"
+         id="g29447">
+        <path
+           d="m 26.616601,20.0001 h -2"
+           style="fill:none;stroke:#000000;stroke-width:0.2"
+           id="path29443" />
+        <path
+           d="m 25.616601,21.0001 v -2"
+           style="fill:none;stroke:#000000;stroke-width:0.2"
+           id="path29445" />
+      </g>
+      <g
+         inkscape:groupmode="layer"
+         inkscape:label="Arcs"
+         id="g29451">
+        <path
+           sodipodi:cx="25.61661"
+           sodipodi:cy="20.000059"
+           sodipodi:rx="8.0500002"
+           sodipodi:ry="8.0500002"
+           sodipodi:type="arc"
+           sodipodi:start="2.0943951"
+           sodipodi:end="1.0471976"
+           sodipodi:open="true"
+           sodipodi:arc-type="arc"
+           style="fill:none;stroke:#be00d9;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="path29449"
+           d="m 21.591609,26.971564 a 8.0500002,8.0500002 0 0 1 -3.750702,-9.054998 8.0500002,8.0500002 0 0 1 7.775703,-5.966507 8.0500002,8.0500002 0 0 1 7.775703,5.966507 8.0500002,8.0500002 0 0 1 -3.750704,9.054998" />
+      </g>
+    </g>
+    <g
+       inkscape:groupmode="layer"
+       inkscape:label="Two"
+       id="g29758"
+       style="display:inline">
+      <g
+         inkscape:groupmode="layer"
+         inkscape:label="Drill guide"
+         id="g29752">
+        <path
+           d="m 26.616601,37.7801 h -2"
+           style="fill:none;stroke:#000000;stroke-width:0.2"
+           id="path29748" />
+        <path
+           d="m 25.616601,38.7801 v -2"
+           style="fill:none;stroke:#000000;stroke-width:0.2"
+           id="path29750" />
+      </g>
+      <g
+         inkscape:groupmode="layer"
+         inkscape:label="Arcs"
+         id="g29756">
+        <path
+           sodipodi:cx="25.61661"
+           sodipodi:cy="37.780056"
+           sodipodi:rx="8.0500002"
+           sodipodi:ry="8.0500002"
+           sodipodi:type="arc"
+           sodipodi:start="2.0943951"
+           sodipodi:end="1.0471976"
+           sodipodi:open="true"
+           sodipodi:arc-type="arc"
+           style="fill:none;stroke:#be00d9;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="path29754"
+           d="m 21.591609,44.751561 a 8.0500002,8.0500002 0 0 1 -3.750702,-9.054998 8.0500002,8.0500002 0 0 1 7.775703,-5.966507 8.0500002,8.0500002 0 0 1 7.775703,5.966507 8.0500002,8.0500002 0 0 1 -3.750704,9.054998" />
+      </g>
+    </g>
+    <g
+       inkscape:groupmode="layer"
+       inkscape:label="Three"
+       id="g30069"
+       style="display:inline">
+      <g
+         inkscape:groupmode="layer"
+         inkscape:label="Drill guide"
+         id="g30063">
+        <path
+           d="m 26.616601,55.5601 h -2"
+           style="fill:none;stroke:#000000;stroke-width:0.2"
+           id="path30059" />
+        <path
+           d="m 25.616601,56.5601 v -2"
+           style="fill:none;stroke:#000000;stroke-width:0.2"
+           id="path30061" />
+      </g>
+      <g
+         inkscape:groupmode="layer"
+         inkscape:label="Arcs"
+         id="g30067">
+        <path
+           sodipodi:cx="25.61661"
+           sodipodi:cy="55.560059"
+           sodipodi:rx="8.0500002"
+           sodipodi:ry="8.0500002"
+           sodipodi:type="arc"
+           sodipodi:start="2.0943951"
+           sodipodi:end="1.0471976"
+           sodipodi:open="true"
+           sodipodi:arc-type="arc"
+           style="fill:none;stroke:#be00d9;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="path30065"
+           d="m 21.591609,62.531563 a 8.0500002,8.0500002 0 0 1 -3.750702,-9.054998 8.0500002,8.0500002 0 0 1 7.775703,-5.966507 8.0500002,8.0500002 0 0 1 7.775703,5.966508 8.0500002,8.0500002 0 0 1 -3.750704,9.054997" />
+      </g>
+    </g>
+    <g
+       inkscape:groupmode="layer"
+       inkscape:label="Four"
+       id="g30386"
+       style="display:inline">
+      <g
+         inkscape:groupmode="layer"
+         inkscape:label="Drill guide"
+         id="g30380">
+        <path
+           d="m 26.616601,73.3401 h -2"
+           style="fill:none;stroke:#000000;stroke-width:0.2"
+           id="path30376" />
+        <path
+           d="m 25.616601,74.3401 v -2"
+           style="fill:none;stroke:#000000;stroke-width:0.2"
+           id="path30378" />
+      </g>
+      <g
+         inkscape:groupmode="layer"
+         inkscape:label="Arcs"
+         id="g30384">
+        <path
+           sodipodi:cx="25.61661"
+           sodipodi:cy="73.340057"
+           sodipodi:rx="8.0500002"
+           sodipodi:ry="8.0500002"
+           sodipodi:type="arc"
+           sodipodi:start="2.0943951"
+           sodipodi:end="1.0471976"
+           sodipodi:open="true"
+           sodipodi:arc-type="arc"
+           style="fill:none;stroke:#be00d9;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="path30382"
+           d="m 21.591609,80.311562 a 8.0500002,8.0500002 0 0 1 -3.750702,-9.054998 8.0500002,8.0500002 0 0 1 7.775703,-5.966507 8.0500002,8.0500002 0 0 1 7.775703,5.966507 8.0500002,8.0500002 0 0 1 -3.750704,9.054998" />
+      </g>
+    </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="Knobs Group"
+     id="knobs-group"
+     style="display:none">
+    <g
+       inkscape:groupmode="layer"
+       inkscape:label="One"
+       id="g6791"
+       style="display:inline">
+      <g
+         inkscape:groupmode="layer"
+         inkscape:label="Main color"
+         id="g6789">
+        <circle
+           cx="25.616669"
+           cy="20"
+           r="4"
+           id="circle6787"
+           style="fill:#ff0000;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none" />
+      </g>
+    </g>
+    <g
+       inkscape:groupmode="layer"
+       inkscape:label="Two"
+       id="g6995"
+       style="display:inline">
+      <g
+         inkscape:groupmode="layer"
+         inkscape:label="Main color"
+         id="g6993">
+        <circle
+           cx="25.616669"
+           cy="37.779999"
+           r="4"
+           id="circle6991"
+           style="fill:#ffff00;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none" />
+      </g>
+    </g>
+    <g
+       inkscape:groupmode="layer"
+       inkscape:label="Three"
+       id="g7202"
+       style="display:inline;opacity:1">
+      <g
+         inkscape:groupmode="layer"
+         inkscape:label="Main color"
+         id="g7200">
+        <circle
+           cx="25.616669"
+           cy="55.560001"
+           r="4"
+           id="circle7198"
+           style="fill:#00a600;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none" />
+      </g>
+    </g>
+    <g
+       inkscape:groupmode="layer"
+       inkscape:label="Four"
+       id="g7412"
+       style="display:inline">
+      <g
+         inkscape:groupmode="layer"
+         inkscape:label="Main color"
+         id="g7410">
+        <circle
+           cx="25.616669"
+           cy="73.339996"
+           r="4"
+           id="circle7408"
+           style="fill:#0000ff;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none" />
+      </g>
+    </g>
+    <g
+       inkscape:groupmode="layer"
+       inkscape:label="Out 1"
+       id="g7838"
+       style="display:inline">
+      <g
+         inkscape:groupmode="layer"
+         inkscape:label="Main color"
+         id="g7836">
+        <circle
+           cx="13.616665"
+           cy="91.120003"
+           r="4"
+           id="circle7834"
+           style="fill:none;stroke:#000000;stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none" />
+      </g>
+    </g>
+    <g
+       inkscape:groupmode="layer"
+       inkscape:label="Out 2"
+       id="g8054"
+       style="display:inline">
+      <g
+         inkscape:groupmode="layer"
+         inkscape:label="Main color"
+         id="g8052">
+        <circle
+           cx="43.117001"
+           cy="91.120003"
+           r="4"
+           id="circle8050"
+           style="fill:none;stroke:#000000;stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none" />
+      </g>
+    </g>
+    <g
+       inkscape:groupmode="layer"
+       inkscape:label="SW"
+       id="g8930"
+       style="display:inline">
+      <g
+         inkscape:groupmode="layer"
+         inkscape:label="Main color"
+         id="g8928"
+         style="display:inline">
+        <circle
+           cx="28.791672"
+           cy="108.9"
+           r="3.5"
+           id="circle8926"
+           style="fill:none;stroke:#000000;stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none" />
+      </g>
+    </g>
+  </g>
+</svg>
