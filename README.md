@@ -14,4 +14,4 @@
 
 ## Schematic
 
-![](C:\Users\naoki\Dropbox\synth\sandbox\wind_ev\eg_for_wind\schematic.png)
+![](schematic.png)
